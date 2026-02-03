@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer & Designer
 --------------------
 
-I'm a Software developer focused on AI and cloud projects, web development, and modern tools.
-
-Currently uploading older projects.
+Currently working on a few projects. 
 
 * 🌍  I'm based in the Greater Toronto Area (Canada).
 * ✉️  You can contact me at [kayjaythiru@gmail.com](mailto:kayjaythiru@gmail.com)
