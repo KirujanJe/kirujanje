@@ -6,7 +6,7 @@ Developer & Designer
 
 
 * 🌍  I'm based in the Greater Toronto Area (Canada).
-* ✉️  You can contact me at [kayjaythiru@gmail.com](mailto:kayjaythiru@gmail.com)
+* ✉️  You can contact me at [kirujanj.168@gmail.com](mailto:kirujanj.168@gmail.com)
 * 👥  I'm looking to collaborate on interesting projects.
 
 <p align="left">
